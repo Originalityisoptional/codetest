@@ -1,0 +1,155 @@
+header {
+  float: left;
+    margin: 300px;
+ width: 60%;
+  padding: 0px;
+  text-align: left;
+  font-size: 70px;
+  color: Black;  
+}
+h1 {
+  font-family: Stockport Double Outline, Helvetica, Monospace;
+     float: left;
+    height: relative;
+ width: 60%;
+    margin: 300px;
+  padding: 30px;
+  text-align: left;
+  font-size: 150px;
+  color: Black;
+}
+h2 {
+  font-family: IBM Plex Sans Light, Helvetica, Monospace;
+}
+body {
+    height: relative;
+    margin: 300px;
+    text-align: left;
+    width: 60%;
+    background-size: relative;
+}
+body {
+  font-family: PT Sans, Helvetica, Monospace;
+    font-size: 25px;
+    style="color:black;"
+}
+.hero {
+    padding: 250px 0;
+    margin: 30px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/);
+    background-size: cover;
+    color: #333;
+}
+footer {
+  font-family: Stockport Double Outline, Helvetica, Monospace;
+    height: 100%;
+}
+body {
+     padding: 0px 0;
+    height: relative;
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+link {
+     padding: 0px 0;
+    height: relative;
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+.cover {
+    padding: 250px 0;
+    height: 140%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/cover.png);
+    background-size: cover;
+    color: #333;
+    }
+.good {
+    padding: 250px 0;
+    height: 310%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/The%20Good..png);
+    background-size: cover;
+    color: #333;
+    }
+.bad {
+    padding: 250px 0;
+    height: 340%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/The%20Bad.png);
+    background-size: cover;
+    color: #333;
+    }
+.blank {
+    padding: 250px 0;
+    height: 310%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/The%20______.png);
+    background-size: cover;
+    color: #333;
+    }
+.tumblr {
+    height: 220%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/tumblrupdate.png);
+    background-size: cover;
+    color: #333;
+    }
+.instagram {
+    padding: 250px 0;
+    height: 270%;
+    margin: 0px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/Instagram.png);
+    background-size: cover;
+    color: #333;
+    }
+.hero {
+    padding: 250px 0;
+    margin: 30px;
+    font-family: 'Open Sans', 'Trebuchet MS', 'Helvetica','san serif';
+    background-image: url(Images/background.jpg);
+    background-size: cover;
+    color: #333;
+}
+.centeredindex {
+  position: absolute;
+  top: 166%;
+  left: 86%;
+}
+.centeredgood {
+  position: absolute;
+  top: 366%;
+  left: 88%;
+}
+.centeredbad {
+  position: absolute;
+  top: 383%;
+  left: 88%;
+    padding: 70px 10px;
+}
+.centeredblank {
+  position: absolute;
+  top: 220%;
+  left: 88%;
+}
+.centeredtumblr {
+  position: absolute;
+  top: 200%;
+  left: 88%;
+    padding: 50px 0px;
+}
+.centeredinstagram {
+  position: absolute;
+  top: 340%;
+  left: 88%;
+     padding: 50px 0px;
+}
